@@ -30,20 +30,17 @@
       <file leaf-file-name="CwOrchestrator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CwOrchestrator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="490" column="37" lean-forward="true" selection-start-line="490" selection-start-column="37" selection-end-line="490" selection-end-column="37" />
+            <state relative-caret-position="468">
+              <caret line="864" column="30" lean-forward="true" selection-start-line="864" selection-start-column="30" selection-end-line="864" selection-end-column="30" />
               <folding>
-                <element signature="e#0#22341#0" expanded="true" />
+                <element signature="e#0#29803#0" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="e#10403#10422#0" expanded="true" />
-                <element signature="e#14044#14239#0" expanded="true" />
-                <element signature="e#14238#14239#0" expanded="true" />
-                <element signature="e#14996#14997#0" expanded="true" />
-                <element signature="e#15037#15038#0" expanded="true" />
-                <element signature="e#15070#15071#0" expanded="true" />
-                <element signature="e#15110#15111#0" expanded="true" />
-                <element signature="e#15139#15140#0" expanded="true" />
-                <element signature="e#15173#15174#0" expanded="true" />
+                <element signature="e#13680#13874#0" expanded="true" />
+                <element signature="e#13873#13874#0" expanded="true" />
+                <element signature="e#24547#24548#0" expanded="true" />
+                <element signature="e#24575#24576#0" expanded="true" />
+                <element signature="e#29266#29494#0" expanded="true" />
+                <element signature="e#29493#29494#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,9 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -160,16 +155,22 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CwOrchestrator.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.CwOrchestrator">
     <configuration default="false" name="CwOrchestrator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -427,7 +428,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5061995" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21770091" sideWeight="0.49380055" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21770091" sideWeight="0.49380055" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -438,7 +439,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31739572" sideWeight="0.49811321" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31739572" sideWeight="0.49811321" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -477,17 +478,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#22341#0" expanded="true" />
+            <element signature="e#0#29803#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#10403#10422#0" expanded="true" />
-            <element signature="e#14044#14239#0" expanded="true" />
-            <element signature="e#14238#14239#0" expanded="true" />
-            <element signature="e#14996#14997#0" expanded="true" />
-            <element signature="e#15037#15038#0" expanded="true" />
-            <element signature="e#15070#15071#0" expanded="true" />
-            <element signature="e#15110#15111#0" expanded="true" />
-            <element signature="e#15139#15140#0" expanded="true" />
-            <element signature="e#15173#15174#0" expanded="true" />
+            <element signature="e#13680#13874#0" expanded="true" />
+            <element signature="e#13873#13874#0" expanded="true" />
+            <element signature="e#24547#24548#0" expanded="true" />
+            <element signature="e#24575#24576#0" expanded="true" />
+            <element signature="e#29266#29494#0" expanded="true" />
+            <element signature="e#29493#29494#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -505,17 +503,39 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#22341#0" expanded="true" />
+            <element signature="e#0#29803#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#10403#10422#0" expanded="true" />
-            <element signature="e#14044#14239#0" expanded="true" />
-            <element signature="e#14238#14239#0" expanded="true" />
-            <element signature="e#14996#14997#0" expanded="true" />
-            <element signature="e#15037#15038#0" expanded="true" />
-            <element signature="e#15070#15071#0" expanded="true" />
-            <element signature="e#15110#15111#0" expanded="true" />
-            <element signature="e#15139#15140#0" expanded="true" />
-            <element signature="e#15173#15174#0" expanded="true" />
+            <element signature="e#13680#13874#0" expanded="true" />
+            <element signature="e#13873#13874#0" expanded="true" />
+            <element signature="e#24547#24548#0" expanded="true" />
+            <element signature="e#24575#24576#0" expanded="true" />
+            <element signature="e#29266#29494#0" expanded="true" />
+            <element signature="e#29493#29494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CwOrchestrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29803#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#13680#13874#0" expanded="true" />
+            <element signature="e#13873#13874#0" expanded="true" />
+            <element signature="e#24547#24548#0" expanded="true" />
+            <element signature="e#24575#24576#0" expanded="true" />
+            <element signature="e#29266#29494#0" expanded="true" />
+            <element signature="e#29493#29494#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -540,26 +560,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="568">
           <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CwOrchestrator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="490" column="37" lean-forward="true" selection-start-line="490" selection-start-column="37" selection-end-line="490" selection-end-column="37" />
+        <state relative-caret-position="468">
+          <caret line="864" column="30" lean-forward="true" selection-start-line="864" selection-start-column="30" selection-end-line="864" selection-end-column="30" />
           <folding>
-            <element signature="e#0#22341#0" expanded="true" />
+            <element signature="e#0#29803#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#10403#10422#0" expanded="true" />
-            <element signature="e#14044#14239#0" expanded="true" />
-            <element signature="e#14238#14239#0" expanded="true" />
-            <element signature="e#14996#14997#0" expanded="true" />
-            <element signature="e#15037#15038#0" expanded="true" />
-            <element signature="e#15070#15071#0" expanded="true" />
-            <element signature="e#15110#15111#0" expanded="true" />
-            <element signature="e#15139#15140#0" expanded="true" />
-            <element signature="e#15173#15174#0" expanded="true" />
+            <element signature="e#13680#13874#0" expanded="true" />
+            <element signature="e#13873#13874#0" expanded="true" />
+            <element signature="e#24547#24548#0" expanded="true" />
+            <element signature="e#24575#24576#0" expanded="true" />
+            <element signature="e#29266#29494#0" expanded="true" />
+            <element signature="e#29493#29494#0" expanded="true" />
           </folding>
         </state>
       </provider>
