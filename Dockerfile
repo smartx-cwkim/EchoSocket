@@ -3,10 +3,9 @@ MAINTAINER Chorwon Kim <cwkim@nm.gist.ac.kr>
 
 RUN apt-get update
 RUN apt-get install -y python-software-properties software-properties-common
-RUN add-apt-repository ppa:webupd8team/java -y
+RUN add-apt-repository ppa:openjdk-r/ppa -y
 RUN apt-get update
-RUN echo "oracle-java7-installer shared/accepted-oracle-license-v1-1 boolean true" | debconf-set-selections
-RUN apt-get -y install oracle-java7-installer
+RUN apt-get -y install openjdk-7-jdk
 
 COPY testClient.java /
 COPY getRandomString.java /
